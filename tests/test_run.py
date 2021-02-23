@@ -7,6 +7,7 @@ from src.run import Cal
 
 IS_RELESE = True
 
+
 class TestCal(object):
 
     @classmethod
